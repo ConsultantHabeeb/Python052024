@@ -1,0 +1,9 @@
+To create virtual environment
+
+python -m venv api
+
+
+
+
+
+
